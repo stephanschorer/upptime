@@ -5,40 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Hetzner
     url: $HOST_HETZNER
-  - name: Plex
-    url: $SITE_PLEX
-    expectedStatusCodes:
-      - 401
-  - name: Tautulli
-    url: $SITE_TAUTULLI
-    expectedStatusCodes:
-      - 401
-  - name: Overseerr
-    url: $SITE_OVERSEERR
-    expectedStatusCodes:
-      - 401
-  - name: Prowlarr
-    url: $SITE_PROWLARR
-    expectedStatusCodes:
-      - 401
-  - name: Transmission
-    url: $SITE_TRANSMISSION
-    expectedStatusCodes:
-      - 401
-  - name: Sonarr
-    url: $SITE_SONARR
-    expectedStatusCodes:
-      - 401
-  - name: Radarr
-    url: $SITE_RADARR
-    expectedStatusCodes:
-      - 401
-  - name: Speedtest
-    url: $SITE_SPEEDTEST
-  - name: Speedtest Oracle
-    url: https://speedtest.oracle.stiefel1234.eu
-    expectedStatusCodes:
-      - 401
+
     
     
 
