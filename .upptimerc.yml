@@ -11,8 +11,6 @@ sites:
     
   - name: Speedtest Oracle
     url: https://speedtest.oracle.stiefel1234.eu
-    expectedStatusCodes:
-      - 401
 
     
     
