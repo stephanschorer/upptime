@@ -33,7 +33,7 @@ sites:
     url: $SITE_RADARR
     expectedStatusCodes:
       - 401
-  - name: Radarr
+  - name: Speedtest
     url: $SITE_SPEEDTEST
     expectedStatusCodes:
       - 401
