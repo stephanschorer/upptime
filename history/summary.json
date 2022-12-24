@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 118,
+    "timeDay": 118,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 195,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 287,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://speedtest.oracle.stiefel1234.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.oracle.stiefel1234.eu.ico",
     "slug": "speedtest-oracle",
-    "status": "down",
-    "uptime": "12.03%",
-    "uptimeDay": "12.03%",
-    "uptimeWeek": "12.03%",
-    "uptimeMonth": "12.03%",
-    "uptimeYear": "12.03%",
-    "time": 951,
-    "timeDay": 951,
-    "timeWeek": 951,
-    "timeMonth": 951,
-    "timeYear": 951,
+    "status": "up",
+    "uptime": "4.77%",
+    "uptimeDay": "4.77%",
+    "uptimeWeek": "4.77%",
+    "uptimeMonth": "4.77%",
+    "uptimeYear": "4.77%",
+    "time": 833,
+    "timeDay": 833,
+    "timeWeek": 833,
+    "timeMonth": 833,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2022-12-24": 0
+      "2022-12-24": 2
     }
   }
 ]
