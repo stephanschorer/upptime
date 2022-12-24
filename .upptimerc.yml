@@ -37,7 +37,8 @@ sites:
     url: $SITE_SPEEDTEST
   - name: Speedtest oracle
     url: https://speedtest.oracle.stiefel1234.eu
-    
+    expectedStatusCodes:
+      - 401
     
     
 
