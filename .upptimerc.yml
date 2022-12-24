@@ -6,15 +6,9 @@ sites:
   - name: Hetzner
     url: $HOST_HETZNER
     
-  - name: Speedtest
-    url: $SITE_SPEEDTEST
+  - name: Oracle
+    url: $HOST_ORACLE 
     
-  - name: Speedtest Oracle
-    url: https://speedtest.oracle.stiefel1234.eu
-
-    
-    
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
