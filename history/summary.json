@@ -18,43 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Speedtest",
-    "url": "$SITE_SPEEDTEST",
+    "name": "Oracle",
+    "url": "$HOST_ORACLE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "speedtest",
-    "status": "down",
-    "uptime": "6.86%",
-    "uptimeDay": "6.86%",
-    "uptimeWeek": "6.86%",
-    "uptimeMonth": "6.86%",
-    "uptimeYear": "6.86%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-12-24": 1
-    }
-  },
-  {
-    "name": "Speedtest Oracle",
-    "url": "https://speedtest.oracle.stiefel1234.eu",
-    "icon": "https://icons.duckduckgo.com/ip3/speedtest.oracle.stiefel1234.eu.ico",
-    "slug": "speedtest-oracle",
-    "status": "down",
-    "uptime": "82.23%",
-    "uptimeDay": "82.23%",
-    "uptimeWeek": "82.23%",
-    "uptimeMonth": "82.23%",
-    "uptimeYear": "82.23%",
-    "time": 1362,
-    "timeDay": 1362,
-    "timeWeek": 1362,
-    "timeMonth": 1362,
-    "timeYear": 1362,
-    "dailyMinutesDown": {
-      "2022-12-24": 0
-    }
+    "slug": "oracle",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 251,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {}
   }
 ]
