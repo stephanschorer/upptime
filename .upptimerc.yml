@@ -7,7 +7,10 @@ sites:
     url: $HOST_HETZNER
     
   - name: Oracle
-    url: $HOST_ORACLE 
+    url: $HOST_ORACLE
+    
+  - name: Google
+    url: https://google.de
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
