@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hetzner",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 285,
-    "timeDay": 230,
-    "timeWeek": 262,
-    "timeMonth": 267,
-    "timeYear": 285,
-    "dailyMinutesDown": {
-      "2023-04-07": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 286,
+    "timeDay": 293,
+    "timeWeek": 275,
+    "timeMonth": 269,
+    "timeYear": 286,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oracle",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 237,
-    "timeDay": 173,
-    "timeWeek": 210,
-    "timeMonth": 220,
+    "timeDay": 311,
+    "timeWeek": 226,
+    "timeMonth": 222,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2023-04-03": 48,
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 104,
-    "timeWeek": 287,
-    "timeMonth": 283,
-    "timeYear": 235,
+    "time": 240,
+    "timeDay": 354,
+    "timeWeek": 305,
+    "timeMonth": 287,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   }
 ]
