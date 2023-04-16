@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 287,
-    "timeWeek": 270,
-    "timeMonth": 274,
+    "timeDay": 226,
+    "timeWeek": 262,
+    "timeMonth": 272,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "oracle",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 236,
-    "timeDay": 216,
-    "timeWeek": 221,
-    "timeMonth": 226,
+    "timeDay": 180,
+    "timeWeek": 212,
+    "timeMonth": 224,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-04-15": 6,
       "2023-04-03": 48,
       "2023-02-21": 106
     }
@@ -50,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 406,
-    "timeWeek": 310,
-    "timeMonth": 293,
-    "timeYear": 255,
+    "time": 250,
+    "timeDay": 106,
+    "timeWeek": 266,
+    "timeMonth": 286,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]
