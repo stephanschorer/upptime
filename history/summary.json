@@ -4,19 +4,19 @@
     "url": "$HOST_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hetzner",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 361,
-    "timeWeek": 280,
-    "timeMonth": 287,
+    "timeDay": 291,
+    "timeWeek": 273,
+    "timeMonth": 285,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2023-10-21": 0
+      "2023-10-21": 12
     }
   },
   {
@@ -28,7 +28,7 @@
     "uptime": "90.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.45%",
+    "uptimeMonth": "9.42%",
     "uptimeYear": "90.79%",
     "time": 237,
     "timeDay": 316,
@@ -36,7 +36,7 @@
     "timeMonth": 255,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2023-10-21": 397,
+      "2023-10-21": 409,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
