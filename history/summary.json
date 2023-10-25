@@ -34,7 +34,7 @@
     "timeMonth": 246,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2023-10-25": 1070,
+      "2023-10-25": 1077,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
@@ -76,19 +76,19 @@
     "url": "https://google.de",
     "icon": "https://icons.duckduckgo.com/ip3/google.de.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 356,
-    "timeDay": 661,
-    "timeWeek": 540,
-    "timeMonth": 378,
+    "timeDay": 524,
+    "timeWeek": 507,
+    "timeMonth": 374,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2023-10-25": 0,
+      "2023-10-25": 7,
       "2023-07-31": 20
     }
   }
