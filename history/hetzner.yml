@@ -1,7 +1,7 @@
 url: $HOST_HETZNER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-28T09:40:37.218Z
+status: up
+code: 200
+responseTime: 351
+lastUpdated: 2023-11-28T09:46:17.913Z
 startTime: 2022-12-24T22:03:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
