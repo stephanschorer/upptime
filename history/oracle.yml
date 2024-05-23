@@ -1,7 +1,7 @@
 url: $HOST_ORACLE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-23T21:08:58.107Z
+status: up
+code: 200
+responseTime: 2309
+lastUpdated: 2024-05-23T21:19:48.234Z
 startTime: 2022-12-24T22:30:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
