@@ -6,9 +6,9 @@
     "slug": "hetzner",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "98.52%",
     "time": 1370,
     "timeDay": 1591,
@@ -16,7 +16,6 @@
     "timeMonth": 1471,
     "timeYear": 1565,
     "dailyMinutesDown": {
-      "2024-10-25": 6,
       "2024-10-24": 56,
       "2024-10-22": 56,
       "2024-10-21": 17,
@@ -105,17 +104,16 @@
     "slug": "oracle",
     "status": "up",
     "uptime": "82.24%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "76.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "76.23%",
     "time": 823,
     "timeDay": 983,
     "timeWeek": 802,
     "timeMonth": 820,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-10-25": 5,
       "2024-10-24": 55,
       "2024-10-22": 55,
       "2024-10-21": 17,
@@ -266,8 +264,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   },
   {
