@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hetzner",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.52%",
+    "uptime": "99.76%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "99.55%",
-    "time": 1428,
-    "timeDay": 1492,
-    "timeWeek": 1466,
-    "timeMonth": 1489,
-    "timeYear": 1596,
+    "time": 1430,
+    "timeDay": 1587,
+    "timeWeek": 1462,
+    "timeMonth": 1490,
+    "timeYear": 1597,
     "dailyMinutesDown": {
-      "2024-11-18": 32,
+      "2024-11-18": 26,
       "2024-11-16": 27,
       "2024-11-14": 18,
       "2024-11-13": 95,
@@ -96,7 +96,8 @@
       "2024-06-09": 45,
       "2024-06-07": 17,
       "2024-06-05": 22,
-      "2024-06-04": 15
+      "2024-06-04": 15,
+      "2024-06-03": 18
     }
   },
   {
@@ -106,17 +107,17 @@
     "slug": "oracle",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.56%",
     "time": 853,
-    "timeDay": 887,
-    "timeWeek": 892,
-    "timeMonth": 865,
-    "timeYear": 966,
+    "timeDay": 895,
+    "timeWeek": 880,
+    "timeMonth": 866,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2024-11-18": 30,
+      "2024-11-18": 25,
       "2024-11-16": 27,
       "2024-11-14": 17,
       "2024-11-13": 95,
@@ -195,7 +196,7 @@
       "2024-06-03": 37,
       "2024-05-30": 16,
       "2024-05-27": 16,
-      "2024-05-25": 17
+      "2024-05-25": 71
     }
   },
   {
@@ -210,10 +211,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 322,
-    "timeDay": 214,
-    "timeWeek": 242,
-    "timeMonth": 308,
-    "timeYear": 313,
+    "timeDay": 217,
+    "timeWeek": 230,
+    "timeMonth": 303,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2024-08-12": 17,
       "2024-05-01": 34
