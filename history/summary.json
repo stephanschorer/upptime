@@ -4,19 +4,19 @@
     "url": "$HOST_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hetzner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "98.42%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "98.41%",
     "uptimeMonth": "98.73%",
-    "uptimeYear": "99.54%",
-    "time": 1399,
+    "uptimeYear": "99.55%",
+    "time": 1400,
     "timeDay": 1412,
     "timeWeek": 1500,
     "timeMonth": 1481,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2024-12-13": 26,
+      "2024-12-13": 27,
       "2024-12-12": 19,
       "2024-12-11": 39,
       "2024-12-10": 20,
@@ -93,8 +93,7 @@
       "2024-07-25": 62,
       "2024-07-24": 17,
       "2024-07-17": 17,
-      "2024-07-14": 77,
-      "2024-07-13": 17
+      "2024-07-14": 77
     }
   },
   {
@@ -102,13 +101,13 @@
     "url": "$HOST_ORACLE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "96.96%",
+    "uptimeDay": "96.95%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.55%",
-    "time": 894,
+    "time": 895,
     "timeDay": 844,
     "timeWeek": 912,
     "timeMonth": 901,
@@ -191,8 +190,7 @@
       "2024-07-13": 17,
       "2024-07-12": 16,
       "2024-07-09": 20,
-      "2024-07-08": 49,
-      "2024-07-05": 24
+      "2024-07-08": 49
     }
   },
   {
