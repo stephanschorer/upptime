@@ -6,17 +6,16 @@
     "slug": "hetzner",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.55%",
-    "time": 1438,
-    "timeDay": 1385,
-    "timeWeek": 1449,
-    "timeMonth": 1479,
-    "timeYear": 1625,
+    "time": 1439,
+    "timeDay": 1525,
+    "timeWeek": 1473,
+    "timeMonth": 1480,
+    "timeYear": 1627,
     "dailyMinutesDown": {
-      "2024-12-19": 6,
       "2024-12-18": 15,
       "2024-12-17": 17,
       "2024-12-16": 37,
@@ -94,7 +93,8 @@
       "2024-08-04": 75,
       "2024-08-03": 0,
       "2024-08-02": 16,
-      "2024-07-31": 17
+      "2024-07-31": 17,
+      "2024-07-30": 17
     }
   },
   {
@@ -103,18 +103,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "99.56%",
-    "time": 860,
-    "timeDay": 850,
-    "timeWeek": 880,
-    "timeMonth": 906,
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.55%",
+    "time": 861,
+    "timeDay": 941,
+    "timeWeek": 905,
+    "timeMonth": 911,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-12-19": 5,
       "2024-12-17": 17,
       "2024-12-16": 36,
       "2024-12-15": 25,
@@ -192,7 +191,7 @@
       "2024-07-25": 61,
       "2024-07-24": 17,
       "2024-07-17": 16,
-      "2024-07-14": 40
+      "2024-07-14": 77
     }
   },
   {
@@ -207,8 +206,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 323,
-    "timeDay": 336,
-    "timeWeek": 327,
+    "timeDay": 368,
+    "timeWeek": 325,
     "timeMonth": 322,
     "timeYear": 315,
     "dailyMinutesDown": {
