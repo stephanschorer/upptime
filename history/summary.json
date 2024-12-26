@@ -6,17 +6,16 @@
     "slug": "hetzner",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.55%",
-    "time": 1490,
-    "timeDay": 1460,
-    "timeWeek": 1536,
-    "timeMonth": 1501,
-    "timeYear": 1631,
+    "time": 1491,
+    "timeDay": 1594,
+    "timeWeek": 1560,
+    "timeMonth": 1506,
+    "timeYear": 1633,
     "dailyMinutesDown": {
-      "2024-12-25": 8,
       "2024-12-20": 32,
       "2024-12-18": 15,
       "2024-12-17": 17,
@@ -93,7 +92,8 @@
       "2024-08-06": 21,
       "2024-08-05": 32,
       "2024-08-04": 75,
-      "2024-08-03": 0
+      "2024-08-03": 0,
+      "2024-08-02": 16
     }
   },
   {
@@ -103,17 +103,16 @@
     "slug": "oracle",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "99.56%",
-    "time": 887,
-    "timeDay": 810,
-    "timeWeek": 899,
-    "timeMonth": 906,
-    "timeYear": 975,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.55%",
+    "time": 888,
+    "timeDay": 930,
+    "timeWeek": 914,
+    "timeMonth": 910,
+    "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-12-25": 7,
       "2024-12-20": 16,
       "2024-12-17": 17,
       "2024-12-16": 36,
@@ -192,7 +191,7 @@
       "2024-07-25": 61,
       "2024-07-24": 17,
       "2024-07-17": 16,
-      "2024-07-14": 24
+      "2024-07-14": 40
     }
   },
   {
@@ -206,11 +205,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 323,
-    "timeDay": 173,
-    "timeWeek": 339,
-    "timeMonth": 322,
-    "timeYear": 315,
+    "time": 324,
+    "timeDay": 358,
+    "timeWeek": 342,
+    "timeMonth": 328,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2024-08-12": 17,
       "2024-05-01": 34
